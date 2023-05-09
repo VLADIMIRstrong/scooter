@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bbf3e9c-d2ae-483e-a3cb-fc6e28e5fa29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/artifacts/app-ibank.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
